@@ -1,0 +1,16 @@
+{
+  "author": "nestormagalhaes",
+  "name": "progractor-testing-grunt-mocha-colors",
+  "version": "0.0.1",
+  "license": "UNLICENSED",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "3.4.1",
+    "chai-as-promised": "5.1.0",
+    "mocha": "2.3.4",
+    "protractor": "3.0.0",
+    "grunt": "0.4.5",
+    "grunt-protractor-runner": "2.1.0"
+  }
+}
